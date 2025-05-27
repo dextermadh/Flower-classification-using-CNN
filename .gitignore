@@ -1,0 +1,3 @@
+datasets/flower_photos.tar.gz
+*.jpg
+datasets/flower_photos/LICENSE.txt
