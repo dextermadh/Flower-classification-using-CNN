@@ -59,7 +59,7 @@ mv flower_photos data/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourname/flower-classifier
+git clone https://github.com/yourname/Flower-classification-using-CNN
 cd flower-classifier
 ```
 
